@@ -26,8 +26,8 @@
 
 ## 📸 游戏截图
 
-![游戏截图1](https://picsum.photos/800/450?random=1)
-![游戏截图2](https://picsum.photos/800/450?random=2)
+![截图1](./gameScreenshot/Picture1.png)
+
 
 ## 🧰 运行环境
 
